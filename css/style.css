@@ -3,3 +3,10 @@
 body {
   font-family: "Poppins", sans-serif;
 }
+.carousel-btn {
+  color: white;
+  background-color: #ff3584;
+}
+.our-bg-color{
+  background-color:#FDF4FA;
+}
